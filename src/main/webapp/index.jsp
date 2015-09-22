@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Wel come to Mindtree Mr.</h2>
+<h2>Wel come to Mindtree</h2>
 </body>
 </html>
