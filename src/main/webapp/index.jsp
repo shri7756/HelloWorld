@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World</h2>
-Wel come mindtree
+<p>Wel come mindtree</p>
 </body>
 </html>
